@@ -1,0 +1,1239 @@
+TITLE:  adobe_09_2015-03-01
+
+CAs info
+
+All Browsers android_2_3_1_r1
+
+android_2_3_1_r1 (  permalink)
+
+Trusted CAs
+
+Staat der Nederlanden Root CA	TrustedFingerprint:	sha256: d41d829e8c1659822af93fce62bffcde264fc84e8b950c5ff275d052354695a3
+
+sha1: 101dfa3fd50bcbbb9bb5600c1955a41af4733a04
+
+md5: 60847c5acedb0cd4cba7e9fe02c6a9c0
+
+Valid from:	17. 2. 2002 10:23:49
+
+Valid to:	16. 3. 2015 10:15:38 Not valid anymore!
+
+Signature type:	RSA-SHA1 (sha1WithRSAEncryption) (Navegador de disco duro para Aplicaciones)
+
+CAs info
+
+All CAs Staat der Nederlanden Root CA
+
+Staat der Nederlanden Root CA (  permalink)
+
+Fingerprint:	sha256: d41d829e8c1659822af93fce62bffcde264fc84e8b950c5ff275d052354695a3
+
+sha1: 101dfa3fd50bcbbb9bb5600c1955a41af4733a04
+
+md5: 60847c5acedb0cd4cba7e9fe02c6a9c0
+
+Valid from:	17. 2. 2002 10:23:49
+
+Valid to:	16. 3. 2015 10:15:38 Not valid anymore!
+
+Signature type:	RSA-SHA1 (sha1WithRSAEncryption)
+
+https://labs.vjirovsky.cz/cas-info/cas/d41d829e8c1659822af93fce62bffcde264fc84e8b950c5ff275d052354695a3
+
+Trusted in browsers
+
+adobe_09_2015-03-01	Trusted
+
+https://labs.vjirovsky.cz/cas-info/b https://labs.vjirovsky.cz/cas-info/browsers/adobe_09_2015-03-01
+
+https://labs.vjirovsky.cz/cas-info/browsers/adobe_11_2015-03-01
+
+https://labs.vjirovsky.cz/cas-info/browsers/adobe_DC_2016-03-02
+
+adobe_11_2015-03-01	Trusted
+
+adobe_DC_2016-03-02	Trusted
+
+android_2_3_1_r1	Trusted
+
+android_2_3_2_r1	Trusted
+
+android_2_3_3_r1	Trusted
+
+android_2_3_3_r1_1	Trusted
+
+android_2_3_4_r0_9	Trusted
+
+android_2_3_4_r1	Trusted
+
+android_2_3_5_r1	Trusted
+
+android_2_3_6_r0_9	Trusted
+
+android_2_3_6_r1	Trusted
+
+android_2_3_7_r1	Trusted
+
+android_2_3_r1	Trusted
+
+android_3_2_4_r1	Trusted
+
+android_4_0_1_r1	Trusted
+
+android_4_0_1_r1_1	Trusted
+
+android_4_0_1_r1_2	Trusted
+
+android_4_0_2_r1	Trusted
+
+android_4_0_3_r1	Trusted
+
+android_4_0_3_r1_1	Trusted
+
+android_4_0_4_r1	Trusted
+
+android_4_0_4_r1_1	Trusted
+
+android_4_0_4_r1_2	Trusted
+
+android_4_0_4_r2	Trusted
+
+android_4_0_4_r2_1	Trusted
+
+android_4_1_1_r1	Trusted
+
+android_4_1_1_r1_1	Trusted
+
+android_4_1_1_r2	Trusted
+
+android_4_1_1_r3	Trusted
+
+android_4_1_1_r4	Trusted
+
+android_4_1_1_r5	Trusted
+
+android_4_1_1_r6	Trusted
+
+android_4_1_1_r6_1	Trusted
+
+android_4_1_2_r1	Trusted
+
+android_4_1_2_r2	Trusted
+
+android_4_1_2_r2_1	Trusted
+
+android_4_2_1_r1	Trusted
+
+android_4_2_1_r1_1	Trusted
+
+android_4_2_1_r1_2	Trusted
+
+android_4_2_2_r1	Trusted
+
+android_4_2_2_r1_1	Trusted
+
+android_4_2_2_r1_2	Trusted
+
+android_4_2_r1	Trusted
+
+android_4_3	Trusted
+
+android_4_3_1_r1	Trusted
+
+android_4_3_r0_9	Trusted
+
+android_4_3_r0_9_1	Trusted
+
+android_4_3_r1	Trusted
+
+android_4_3_r1_1	Trusted
+
+android_4_3_r2	Trusted
+
+android_4_3_r2_1	Trusted
+
+android_4_3_r2_2	Trusted
+
+android_4_3_r2_3	Trusted
+
+android_4_3_r3	Trusted
+
+android_4_3_r3_1	Trusted
+
+android_4_4_1_r1	Trusted
+
+android_4_4_1_r1_0_1	Trusted
+
+android_4_4_2_r1	Trusted
+
+android_4_4_2_r1_0_1	Trusted
+
+android_4_4_2_r2	Trusted
+
+android_4_4_2_r2_0_1	Trusted
+
+android_4_4_3_r1	Trusted
+
+android_4_4_3_r1_0_1	Trusted
+
+android_4_4_3_r1_1	Trusted
+
+android_4_4_3_r1_1_0_1	Trusted
+
+android_4_4_4_r1	Trusted
+
+android_4_4_4_r1_0_1	Trusted
+
+android_4_4_4_r2	Trusted
+
+android_4_4_4_r2_0_1	Trusted
+
+android_4_4_r0_7	Trusted
+
+android_4_4_r0_8	Trusted
+
+android_4_4_r0_9	Trusted
+
+android_4_4_r1	Trusted
+
+android_4_4_r1_0_1	Trusted
+
+android_4_4_r1_1	Trusted
+
+android_4_4_r1_1_0_1	Trusted
+
+android_4_4_r1_2	Trusted
+
+android_4_4_r1_2_0_1	Trusted
+
+android_4_4w_r1	Trusted
+
+android_5_0_0_r1	Trusted
+
+android_5_0_0_r2	Trusted
+
+android_5_0_0_r3	Trusted
+
+android_5_0_0_r4	Trusted
+
+android_5_0_0_r5	Trusted
+
+android_5_0_0_r5_1	Trusted
+
+android_5_0_0_r6	Trusted
+
+android_5_0_0_r7	Trusted
+
+android_5_0_1_r1	Trusted
+
+android_5_0_2_r1	Trusted
+
+android_cts_2_3_r10	Trusted
+
+android_cts_2_3_r11	Trusted
+
+android_cts_2_3_r12	Trusted
+
+android_cts_4_0_3_r1	Trusted
+
+android_cts_4_0_3_r2	Trusted
+
+android_cts_4_0_r1	Trusted
+
+android_cts_4_1_r1	Trusted
+
+android_cts_4_1_r2	Trusted
+
+android_cts_4_1_r4	Trusted
+
+android_cts_4_2_r1	Trusted
+
+android_cts_4_2_r2	Trusted
+
+android_cts_4_4_r1	Trusted
+
+android_cts_verifier_4_0_3_r1	Trusted
+
+android_cts_verifier_4_0_r1	Trusted
+
+android_l_preview_r2	Trusted
+
+android_sdk_4_0_3_r1	Trusted
+
+android_sdk_4_0_3_tools_r1	Trusted
+
+android_sdk_4_4_2_r1	Trusted
+
+android_sdk_4_4_2_r1_0_1	Trusted
+
+android_sdk_adt_r16_0_1	Trusted
+
+android_sdk_adt_r20	Trusted
+
+android_sdk_support_r11	Trusted
+
+android_wear_5_0_0_r1	Trusted
+
+archlinux_20130610	Trusted
+
+archlinux_20130906	Trusted
+
+archlinux_20140223-1	Trusted
+
+archlinux_20140223-2	Trusted
+
+archlinux_20140325	Trusted
+
+archlinux_20140824	Trusted
+
+archlinux_20140827	Trusted
+
+archlinux_20140924	Trusted
+
+blackberry_10_0_09-2372	Trusted
+
+blackberry_10_0_09-2709	Trusted
+
+blackberry_10_0_09-2743	Trusted
+
+blackberry_10_0_10-261	Trusted
+
+blackberry_10_0_10-648	Trusted
+
+blackberry_10_0_10-672	Trusted
+
+blackberry_10_0_10-684	Trusted
+
+blackberry_10_0_10-690	Trusted
+
+blackberry_10_0_10-738	Trusted
+
+blackberry_10_0_10-822	Trusted
+
+blackberry_10_1_0D2-2025	Trusted
+
+blackberry_10_1_0D2-2038	Trusted
+
+blackberry_10_1_0D2-2050	Trusted
+
+blackberry_10_1_0D2-2062	Trusted
+
+blackberry_10_1_0D2-2074	Trusted
+
+blackberry_10_1_0D2-2121	Trusted
+
+blackberry_10_1_0D2-2151	Trusted
+
+blackberry_10_1_0F-1910	Trusted
+
+blackberry_10_1_0F-1916	Trusted
+
+blackberry_10_1_0F-2342	Trusted
+
+blackberry_10_1_0F-2354	Trusted
+
+blackberry_10_1_0F-2420	Trusted
+
+blackberry_10_1_X-1020	Trusted
+
+blackberry_10_1_X-1483	Trusted
+
+blackberry_10_1_X-1627	Trusted
+
+blackberry_10_1_X-1720	Trusted
+
+blackberry_10_1_X-4537	Trusted
+
+blackberry_10_1_X-4633	Trusted
+
+blackberry_10_1_X-4651	Trusted
+
+blackberry_10_1_X-4699	Trusted
+
+blackberry_10_1_X-4780	Trusted
+
+blackberry_10_1_X-4828	Trusted
+
+blackberry_10_2_0X-1155	Trusted
+
+blackberry_10_2_0X-1233	Trusted
+
+blackberry_10_2_0X-1443	Trusted
+
+blackberry_10_2_0X-1521	Trusted
+
+blackberry_10_2_0X-1725	Trusted
+
+blackberry_10_2_0X-1761	Trusted
+
+blackberry_10_2_0X-1767	Trusted
+
+blackberry_10_2_0X-1791	Trusted
+
+blackberry_10_2_0X-1803	Trusted
+
+blackberry_10_2_0X-1809	Trusted
+
+blackberry_10_2_1-1055	Trusted
+
+blackberry_10_2_1-1925	Trusted
+
+blackberry_10_2_1-2141	Trusted
+
+blackberry_10_2_1-2174	Trusted
+
+blackberry_10_2_1-2180	Trusted
+
+blackberry_10_2_1-2228	Trusted
+
+blackberry_10_2_1-2234	Trusted
+
+blackberry_10_2_1-2273	Trusted
+
+blackberry_10_2_1-2294	Trusted
+
+blackberry_10_2_1-2758	Trusted
+
+blackberry_10_2_1-2947	Trusted
+
+blackberry_10_2_1-3175	Trusted
+
+blackberry_10_2_1-3181	Trusted
+
+blackberry_10_2_1-3247	Trusted
+
+blackberry_10_2_1-3253	Trusted
+
+blackberry_10_2_1-3289	Trusted
+
+blackberry_10_2_1-3337	Trusted
+
+blackberry_10_2_1-3358	Trusted
+
+blackberry_10_2_1-3376	Trusted
+
+blackberry_10_2_1-3442	Trusted
+
+blackberry_10_2_1-3502	Trusted
+
+blackberry_10_2_2-1531	Trusted
+
+blackberry_10_2_2-1609	Trusted
+
+blackberry_10_3_0-1052	Not trusted
+
+blackberry_10_3_0-1418	Not trusted
+
+blackberry_10_3_0-698	Not trusted
+
+blackberry_10_3_1-1154	Not trusted
+
+blackberry_10_3_1-1298	Not trusted
+
+blackberry_10_3_1-1448	Not trusted
+
+blackberry_10_3_1-1520	Not trusted
+
+blackberry_10_3_1-1949	Not trusted
+
+blackberry_10_3_1-1955	Not trusted
+
+blackberry_10_3_1-2072	Not trusted
+
+blackberry_10_3_1-2243	Not trusted
+
+blackberry_10_3_1-2267	Not trusted
+
+blackberry_10_3_1-2558	Not trusted
+
+blackberry_10_3_1-2576	Not trusted
+
+blackberry_10_3_1-2582	Not trusted
+
+blackberry_10_3_1-2708	Not trusted
+
+blackberry_10_3_1-2726	Not trusted
+
+blackberry_10_3_1-2744	Not trusted
+
+blackberry_10_3_1-995	Not trusted
+
+blackberry_10_3_2-281	Not trusted
+
+ca_bund	Not trusted
+
+ca_cacert	Not trusted
+
+ca_cloudflare	Not trusted
+
+ca_dfn	Not trusted
+
+ca_globalsign	Not trusted
+
+ca_identrust	Not trusted
+
+ca_letsencrypt	Not trusted
+
+ca_swisssign	Not trusted
+
+ca_symantec	Not trusted
+
+ca_telekom	Not trusted
+
+ca_wosign	Not trusted
+
+ct_certly	Trusted
+
+ct_cnnic	Not trusted
+
+ct_digicert	Not trusted
+
+ct_gdca	Not trusted
+
+ct_google_aviator	Trusted
+
+ct_google_icarus	Not trusted
+
+ct_google_pilot	Trusted
+
+ct_google_rocketeer	Trusted
+
+ct_google_skydiver	Trusted
+
+ct_google_submariner	Not trusted
+
+ct_google_testtube	Not trusted
+
+ct_izenpe	Not trusted
+
+ct_startssl	Not trusted
+
+ct_symantec_ctlog	Not trusted
+
+ct_symantec_vega	Not trusted
+
+ct_venafi	Trusted
+
+ct_wosign	Trusted
+
+debian_20020323	Not trusted
+
+debian_20040809	Not trusted
+
+debian_20061027	Trusted
+
+debian_20070303	Trusted
+
+debian_20080809	Trusted
+
+debian_20090814	Trusted
+
+debian_20130119	Trusted
+
+debian_20140325	Trusted
+
+debian_20140927	Trusted
+
+debian_20141019	Trusted
+
+debian_20150426	Trusted
+
+debian_20151214	Trusted
+
+debian_20160104	Trusted
+
+ebca_20150210	Not trusted
+
+ebca_20160719	Not trusted
+
+fbca	Not trusted
+
+firefox_05	Trusted
+
+firefox_06	Trusted
+
+firefox_07	Trusted
+
+firefox_08	Trusted
+
+firefox_09	Trusted
+
+firefox_11	Trusted
+
+firefox_15	Trusted
+
+firefox_18	Trusted
+
+firefox_23	Trusted
+
+firefox_26	Trusted
+
+firefox_27	Trusted
+
+firefox_29	Trusted
+
+firefox_31	Trusted
+
+firefox_32	Trusted
+
+firefox_36	Trusted
+
+firefox_38	Trusted
+
+firefox_42	Trusted
+
+firefox_44	Trusted
+
+ios_11	Not trusted
+
+ios_6	Trusted
+
+java_1_4_0	Not trusted
+
+java_1_4_0_01	Not trusted
+
+java_1_4_0_02	Not trusted
+
+java_1_4_0_03	Not trusted
+
+java_1_4_0_04	Not trusted
+
+java_1_4_1_02	Not trusted
+
+java_1_4_1_03	Not trusted
+
+java_1_4_1_04	Not trusted
+
+java_1_4_1_05	Not trusted
+
+java_1_4_1_06	Not trusted
+
+java_1_4_1_07	Not trusted
+
+java_1_4_2_01	Not trusted
+
+java_1_4_2_02	Not trusted
+
+java_1_4_2_03	Not trusted
+
+java_1_4_2_04	Not trusted
+
+java_1_4_2_05	Not trusted
+
+java_1_4_2_06	Not trusted
+
+java_1_4_2_07	Not trusted
+
+java_1_4_2_08	Not trusted
+
+java_1_4_2_09	Not trusted
+
+java_1_4_2_10	Not trusted
+
+java_1_4_2_11	Not trusted
+
+java_1_4_2_12	Not trusted
+
+java_1_4_2_13	Not trusted
+
+java_1_4_2_14	Not trusted
+
+java_1_4_2_15	Not trusted
+
+java_1_4_2_16	Not trusted
+
+java_1_4_2_17	Not trusted
+
+java_1_4_2_18	Not trusted
+
+java_1_4_2_19	Not trusted
+
+java_1_5_0_01	Not trusted
+
+java_1_5_0_02	Not trusted
+
+java_1_5_0_03	Not trusted
+
+java_1_5_0_04	Not trusted
+
+java_1_5_0_05	Not trusted
+
+java_1_5_0_06	Not trusted
+
+java_1_5_0_07	Not trusted
+
+java_1_5_0_08	Not trusted
+
+java_1_5_0_09	Not trusted
+
+java_1_5_0_10	Not trusted
+
+java_1_5_0_11	Not trusted
+
+java_1_5_0_12	Not trusted
+
+java_1_5_0_13	Not trusted
+
+java_1_5_0_14	Not trusted
+
+java_1_5_0_15	Not trusted
+
+java_1_5_0_16	Not trusted
+
+java_1_5_0_17	Not trusted
+
+java_1_5_0_18	Not trusted
+
+java_1_5_0_19	Not trusted
+
+java_1_5_0_20	Not trusted
+
+java_1_5_0_21	Not trusted
+
+java_1_5_0_22	Not trusted
+
+java_6	Not trusted
+
+java_6u1	Not trusted
+
+java_6u10	Not trusted
+
+java_6u11	Not trusted
+
+java_6u12	Not trusted
+
+java_6u13	Not trusted
+
+java_6u14	Not trusted
+
+java_6u15	Not trusted
+
+java_6u16	Not trusted
+
+java_6u17	Not trusted
+
+java_6u18	Not trusted
+
+java_6u19	Not trusted
+
+java_6u2	Not trusted
+
+java_6u20	Not trusted
+
+java_6u21	Not trusted
+
+java_6u22	Not trusted
+
+java_6u23	Not trusted
+
+java_6u24	Not trusted
+
+java_6u25	Not trusted
+
+java_6u26	Not trusted
+
+java_6u27	Not trusted
+
+java_6u29	Not trusted
+
+java_6u3	Not trusted
+
+java_6u30	Not trusted
+
+java_6u31	Not trusted
+
+java_6u32	Not trusted
+
+java_6u33	Not trusted
+
+java_6u34	Not trusted
+
+java_6u35	Not trusted
+
+java_6u37	Not trusted
+
+java_6u38	Not trusted
+
+java_6u39	Not trusted
+
+java_6u4	Not trusted
+
+java_6u4-p	Not trusted
+
+java_6u5	Not trusted
+
+java_6u5-p	Not trusted
+
+java_6u6	Not trusted
+
+java_6u7	Not trusted
+
+java_7	Not trusted
+
+java_7u1	Not trusted
+
+java_7u10	Not trusted
+
+java_7u11	Not trusted
+
+java_7u13	Not trusted
+
+java_7u15	Not trusted
+
+java_7u17	Not trusted
+
+java_7u2	Not trusted
+
+java_7u21	Not trusted
+
+java_7u25	Not trusted
+
+java_7u3	Not trusted
+
+java_7u4	Not trusted
+
+java_7u40	Not trusted
+
+java_7u45	Not trusted
+
+java_7u5	Not trusted
+
+java_7u51	Not trusted
+
+java_7u55	Not trusted
+
+java_7u6	Not trusted
+
+java_7u60	Not trusted
+
+java_7u65	Not trusted
+
+java_7u67	Not trusted
+
+java_7u7	Not trusted
+
+java_7u71	Not trusted
+
+java_7u72	Not trusted
+
+java_7u75	Not trusted
+
+java_7u76	Not trusted
+
+java_7u79	Not trusted
+
+java_7u80	Not trusted
+
+java_7u9	Not trusted
+
+java_8	Not trusted
+
+java_8u11	Not trusted
+
+java_8u20	Not trusted
+
+java_8u25	Not trusted
+
+java_8u31	Not trusted
+
+java_8u40	Not trusted
+
+java_8u45	Not trusted
+
+java_8u5	Not trusted
+
+java_8u51	Not trusted
+
+java_8u60	Not trusted
+
+java_8u65	Not trusted
+
+java_8u66	Not trusted
+
+java_8u71	Not trusted
+
+java_8u72	Not trusted
+
+java_8u73	Not trusted
+
+java_8u74	Not trusted
+
+java_8u77	Not trusted
+
+java_8u91	Not trusted
+
+java_8u92	Not trusted
+
+misc	Not trusted
+
+mozilla_allca	Not trusted
+
+ms-authroot_2006-12-14	Trusted
+
+ms-authroot_2007-01-09	Trusted
+
+ms-authroot_2007-02-01	Trusted
+
+ms-authroot_2007-05-22	Trusted
+
+ms-authroot_2007-07-02	Trusted
+
+ms-authroot_2007-08-21	Trusted
+
+ms-authroot_2007-12-19	Trusted
+
+ms-authroot_2008-03-28	Trusted
+
+ms-authroot_2008-06-12	Trusted
+
+ms-authroot_2008-08-28	Trusted
+
+ms-authroot_2008-11-03	Trusted
+
+ms-authroot_2009-02-03	Trusted
+
+ms-authroot_2009-05-01	Trusted
+
+ms-authroot_2009-08-25	Trusted
+
+ms-authroot_2009-10-13	Trusted
+
+ms-authroot_2009-10-29	Trusted
+
+ms-authroot_2010-05-03	Trusted
+
+ms-authroot_2010-07-19	Trusted
+
+ms-authroot_2010-09-27	Trusted
+
+ms-authroot_2011-01-25	Trusted
+
+ms-authroot_2011-02-18	Trusted
+
+ms-authroot_2011-06-27	Trusted
+
+ms-authroot_2011-08-30	Trusted
+
+ms-authroot_2011-09-01	Trusted
+
+ms-authroot_2011-09-19	Trusted
+
+ms-authroot_2011-10-18	Trusted
+
+ms-authroot_2012-01-25	Trusted
+
+ms-authroot_2012-02-23	Trusted
+
+ms-authroot_2012-04-06	Trusted
+
+ms-authroot_2012-11-02	Trusted
+
+ms-authroot_2013-03-21	Trusted
+
+ms-authroot_2013-04-20	Trusted
+
+ms-authroot_2013-06-26	Trusted
+
+ms-authroot_2013-10-03	Trusted
+
+ms-authroot_2014-03-12	Trusted
+
+ms-authroot_2014-09-12	Trusted
+
+ms-authroot_2015-01-22	Trusted
+
+ms-authroot_2015-02-20	Trusted
+
+ms-authroot_2015-02-23	Trusted
+
+ms-authroot_2015-06-18	Trusted
+
+ms-authroot_2015-07-23	Trusted
+
+ms-authroot_2015-08-20	Trusted
+
+ms-authroot_2015-11-19	Trusted
+
+ms-authroot_2016-01-13	Trusted
+
+ms-authroot_2016-01-23	Trusted
+
+ms-authroot_2016-01-28	Trusted
+
+netscape_4_72	Not trusted
+
+openbsd_5_1	Not trusted
+
+openbsd_5_2	Not trusted
+
+openbsd_5_3	Not trusted
+
+openbsd_5_4	Not trusted
+
+openbsd_5_5	Not trusted
+
+osx_10_10_0	Trusted
+
+osx_10_10_3	Trusted
+
+osx_10_10_4	Trusted
+
+osx_10_10_beta3_Yosemite_2014_10_02	Trusted
+
+osx_10_11_1	Trusted
+
+osx_10_11_6	Trusted
+
+osx_10_12_1	Not trusted
+
+osx_10_13_3_HighSierra_2017_12_27	Not trusted
+
+osx_10_8_0	Trusted
+
+osx_10_8_2	Trusted
+
+osx_10_8_5	Trusted
+
+osx_10_8_MountainLion_2014_10_14	Trusted
+
+osx_10_9_0	Trusted
+
+osx_10_9_2	Trusted
+
+osx_10_9_4	Trusted
+
+osx_10_9_5	Trusted
+
+osx_10_9_5_Mavericks_2014_10_02	Trusted
+
+replicant_4_2	Trusted
+
+tsp_globaltrustfinder	Not trusted
+
+tsp_globaltrustpoint	Not trusted
+
+tsp_ssllabs	Trusted
+
+uefi_microsoft	Not trusted
+
+win_7_sp3_2014_10_02	Not trusted
+
+win_8_1_2014_10_02	Not trusted
+
+win_8_1_sp1_2014_10_02	Not trusted
+
+win_95_c_1996_09_05	Not trusted
+
+win_98_se_1999_04_23	Not trusted
+
+win_me_sp0_2017_07_05	Not trusted
+
+win_vista_sp0_2015_02_22	Not trusted
+
+win_xp_sp3_2014_10_02	Not trusted
+
+QuoVadis Root Certification Authority	Trusted
+
+SwissSign Platinum CA - G2	Trusted
+
+QuoVadis Root CA 3	Trusted
+
+Entrust.net Certification Authority (2048)	Trusted
+
+ComSign Secured CA	Trusted
+
+AC Raíz Certicámara S.A.	Trusted
+
+DigiCert Assured ID Root CA	Trusted
+
+Chambers of Commerce Root	Trusted
+
+Certum CA	Trusted
+
+Security Communication EV RootCA1	Trusted
+
+SecureTrust CA	Trusted
+
+GeoTrust Universal CA	Trusted
+
+UTN-USERFirst-Network Applications	Trusted
+
+thawte Primary Root CA	Trusted
+
+Thawte Server CA	Trusted
+
+OISTE WISeKey Global Root GA CA	Trusted
+
+AAA Certificate Services	Trusted
+
+Secure Global CA	Trusted
+
+WellsSecure Public Root Certificate Authority	Trusted
+
+Wells Fargo Root Certificate Authority	Trusted
+
+SwissSign Gold CA - G2	Trusted
+
+Go Daddy Class 2 Certification Authority	Trusted
+
+COMODO Certification Authority	Trusted
+
+NetLock Expressz (Class C) Tanusitvanykiado	Trusted
+
+Starfield Services Root Certificate Authority - G2	Trusted
+
+Equifax Secure eBusiness CA-2	Trusted
+
+SecureSign RootCA1	Trusted
+
+Microsoft Root Authority	Trusted
+
+IGC/A	Trusted
+
+Baltimore CyberTrust Root	Trusted
+
+UTN-USERFirst-Hardware	Trusted
+
+GeoTrust Primary Certification Authority	Trusted
+
+AddTrust External CA Root	Trusted
+
+America Online Root Certification Authority 2	Trusted
+
+TC TrustCenter Universal CA III	Trusted
+
+DigiCert Global Root CA	Trusted
+
+TC TrustCenter Class 2 CA II	Trusted
+
+GlobalSign Root CA	Trusted
+
+DST ACES CA X6	Trusted
+
+Starfield Root Certificate Authority - G2	Trusted
+
+DSTCA E2	Trusted
+
+TÜRKTRUST Elektronik Sertifika Hizmet Sağlayıcısı	Trusted
+
+TC TrustCenter Class 2 CA	Trusted
+
+DST Root CA X3	Trusted
+
+Government Root Certification Authority	Trusted
+
+DSTCA E1	Trusted
+
+SwissSign Silver CA - G2	Trusted
+
+DigiCert High Assurance EV Root CA	Trusted
+
+Class 3 Public Primary Certification Authority	Trusted
+
+FNMT Clase 2 CA	Trusted
+
+Sonera Class2 CA	Trusted
+
+Visa eCommerce Root	Trusted
+
+GTE CyberTrust Global Root	Trusted
+
+Security Communication RootCA1	Trusted
+
+VeriSign Trust Network	Trusted
+
+Entrust Root Certification Authority	Trusted
+
+GlobalSign	Trusted
+
+Class 2 Primary CA	Trusted
+
+DigiNotar Root CA	Trusted
+
+Entrust.net Secure Server Certification Authority	Trusted
+
+Starfield Class 2 Certification Authority	Trusted
+
+Swisscom Root CA 1	Trusted
+
+Equifax Secure Certificate Authority	Trusted
+
+Microsec e-Szigno Root CA	Trusted
+
+http://www.valicert.com/	Trusted
+
+Global Chambersign Root	Trusted
+
+VeriSign Class 4 Public Primary Certification Authority - G3	Trusted
+
+ipsCA Global CA Root	Trusted
+
+TDC Internet Root CA	Trusted
+
+TDC OCES CA	Trusted
+
+Equifax Secure eBusiness CA-1	Trusted
+
+Thawte Premium Server CA	Trusted
+
+TC TrustCenter Class 3 CA II	Trusted
+
+GeoTrust Global CA 2	Trusted
+
+VeriSign Trust Network	Trusted
+
+Deutsche Telekom Root CA 2	Trusted
+
+QuoVadis Root CA 2	Trusted
+
+TC TrustCenter Universal CA I	Trusted
+
+Network Solutions Certificate Authority	Trusted
+
+Cybertrust Global Root	Trusted
+
+Go Daddy Root Certificate Authority - G2	Trusted
+
+GeoTrust Universal CA 2	Trusted
+
+Autoridad de Certificacion Firmaprofesional CIF A62634068	Trusted
+
+http://www.valicert.com/	Trusted
+
+Equifax Secure Global eBusiness CA-1	Trusted
+
+Certigna	Trusted
+
+VeriSign Class 3 Public Primary Certification Authority - G5	Trusted
+
+XRamp Global Certification Authority	Trusted
+
+GlobalSign	Trusted
+
+KISA RootCA 3	Trusted
+
+America Online Root Certification Authority 1	Trusted
+
+UTN - DATACorp SGC	Trusted
+
+TC TrustCenter Class 3 CA	Trusted
+
+KISA RootCA 1	Trusted
+
+TÜRKTRUST Elektronik Sertifika Hizmet Sağlayıcısı	Trusted
+
+VeriSign Class 3 Public Primary Certification Authority - G3	Trusted
+
+Entrust Root Certification Authority - G2	Trusted
+
+NetLock Uzleti (Class B) Tanusitvanykiado	Trusted
+
+NetLock Kozjegyzoi (Class A) Tanusitvanykiado	Trusted
+
+StartCom Certification Authority	Trusted
+
+GeoTrust Global CA	Trusted
+
+RSA Security 2048 V3	Trusted
+
+http://www.valicert.com/	Trusted
